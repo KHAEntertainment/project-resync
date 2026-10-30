@@ -1,0 +1,24 @@
+{
+  "name": "project-resync",
+  "displayName": "Project Resync",
+  "version": "0.1.0",
+  "description": "Rebuild context on a project by comparing the code against its docs, tracker, memory and git history. Works with whatever tracker and memory tools you have; read-only by default.",
+  "author": {
+    "name": "KHA Entertainment",
+    "url": "https://github.com/KHAEntertainment"
+  },
+  "homepage": "https://github.com/KHAEntertainment/project-resync",
+  "repository": "https://github.com/KHAEntertainment/project-resync",
+  "license": "MIT",
+  "keywords": [
+    "context-recovery",
+    "handoff",
+    "project-state",
+    "drift",
+    "documentation",
+    "issue-tracker",
+    "git-history",
+    "agent-memory",
+    "agent-harness"
+  ]
+}
